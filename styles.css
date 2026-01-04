@@ -6,6 +6,7 @@
 body {
   margin: 0;
   background-color: #f5f7fa;
+
 }
 .container {
   padding: 20px;
@@ -42,4 +43,5 @@ body {
 button:disabled {
   opacity: 0.5;
 }
+
 
